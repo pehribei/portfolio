@@ -2,4 +2,4 @@
 
 Projeto desenvolvido para o primeiro desafio do StartSe Tech Academy
 
-<https://pehribei.github.io/portfolio/>
+<a href="https://pehribei.github.io/portfolio/" target="_blank">Acesse aqui!</a>
